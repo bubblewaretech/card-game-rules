@@ -1,13 +1,6 @@
 Cuttle 
 ======
 
-The exact origin of this unusual two-player game is unknown. It is described in Richard Sipie's [Cuttle FAQ](http://www.geocities.ws/richardsipie/cuttle.htm).
-
-He says he was taught the rules [in 1975](#this-game-has-similarities-with-magic-the-gathering).
-
-Rules taken and cleaned from: http://www.pagat.com/combat/cuttle.html
-
-
 Object 
 ------
 
@@ -59,7 +52,7 @@ Five  | You may draw two cards.
 Six   | All cards on the table except for point cards are moved into the scrap pile.
 Seven | Draw a card. You can and must play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever. If you are unable to play the card, it is discarded. (This may only happen in the event of drawing a Jack).
 Eight | 8 points and [these abilities](#eight-eyeglasses).
-Nine  | Return any permanent card to its controller's hand.
+Nine  | Just 9 points. No special abilities.
 Ten | Just worth 10 points. No special abilities.
 
 ### Eight :eyeglasses:
@@ -72,7 +65,7 @@ Can only be played on your turn, and count as no points.
 
 Card  | Ability
 ----  | -------
-Jack  | Placed on top of a point card (A-10) already on the table. Kept there, the card is moved across the table and is now owned by the opponent of its original owner (who is generally your opponent!)
+Jack  | Placed on top of an opponents point card (A-10) already on the table, you take control of it.
 Queen | Played on the table, like a point card. With a Queen in play, none of your other cards may be the target of opposing cards that target a single card. (Specifically: **Jacks, twos, and nines**). However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
 King  | Played like Queens. With a King in play, a player can win with just 14 points worth of point cards on the table. With two Kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of Kings controlled by that player).  
 
@@ -117,25 +110,3 @@ piato on Reddit [gave these tips](http://www.reddit.com/r/magicTCG/comments/2ye2
 
 > (Note that the Instant/Sorcery status of those cards isn't quite right - everything in the game is at "sorcery speed" (i.e. on your turn, and the only thing you do on your turn), except for the counterspell mode of 2s. Which makes the counters into Flusterstorms or something, since they can't hit "creatures", scuttles (um, evoking shriekmaw I guess?) or "enchantments".)
 
-### The 9 doesn't seem very useful as a one-off:
-
-piato on Reddit [says](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a_standard_playing_card_game_from_1975/cp99ehj):
-
-> I don't know what's going on with the rule for 9s, but they're completely useless as stated. John M (who runs pagat.com, which hosts the Sipie FAQ) suggested that he may have meant "bounce a card and it can't be replayed that turn", which makes a ton more sense.
-
-
-Variations
-----------
-
- * Instead of the 4's one-off being a **Choice Discard**, make it a **Random Discard**. It can possibly improves the game once you hit a reasonably high level, putting pressure on 2's and encouraging attacking play. On the other hand, choice 4's are skill-testing when you're just learning the game, so swings and roundabouts I guess. (suggested by [piato](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a_standard_playing_card_game_from_1975/cp99ehj))
-
-
-Credits
--------
-
-Richard Sipie has been playing games since 1951. He also enjoys walking, collecting (especially theatre paraphenalia) and flattery :-). He is happily married and lives in Bloomington, IL.
-
-R.Sipie, 2000 
-(do E-mail me!)
-
-[_but the address given - richardsipie@yahoo.com - unfortunately no longer works - JM_]
