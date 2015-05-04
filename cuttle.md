@@ -66,7 +66,7 @@ Can only be played on your turn, and count as no points.
 Card  | Ability
 ----  | -------
 Jack  | Placed on top of an opponents point card (A-10) already on the table, you take control of it.
-Queen | Played on the table, like a point card. With a Queen in play, none of your other cards may be the target of opposing cards that target a single card. (Specifically: **Jacks, twos, and nines**). However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
+Queen | Played on the table, like a point card. With a Queen in play, none of your other cards may be the target of opposing cards that target a single card. (Specifically: **Jacks and twos**). However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be affected. Nor do Queens offer any protection against scuttle attacks.
 King  | Played like Queens. With a King in play, a player can win with just 14 points worth of point cards on the table. With two Kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of Kings controlled by that player).  
 
 FAQ
