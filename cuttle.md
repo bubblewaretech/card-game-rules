@@ -48,7 +48,7 @@ Two   | Place any card on the table into the scrap pile, except a point card. (I
       | Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
 Three | Rummage through the scrap pile, taking a card of your choice into your hand.
 Four  | Opponent must discard two cards of his choice from his hand into the scrap pile.
-Five  | Draw a card. You can and must play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever. If you are unable to play the card, it is discarded. (This may only happen in the event of drawing a Jack).
+Five  | Draw a card. You MUST play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever.
 Six   | All cards on the table except for point cards are moved into the scrap pile.
 Seven | Draw three cards.
 Eight | 8 points and [these abilities](#eight-eyeglasses).
