@@ -47,7 +47,7 @@ Two   | Place any card on the table into the scrap pile, except a point card. (I
       | or
       | Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
 Three | Rummage through the scrap pile, taking a card of your choice into your hand.
-Four  | Opponent must discard two cards of his choice from his hand into the scrap pile.
+Four  | Opponent must discard two cards at random from his hand into the scrap pile.
 Five  | Draw a card. You MUST play this drawn card immediately - whether as a point card, a scuttle, a one-off, whatever.
 Six   | All cards on the table except for point cards are moved into the scrap pile.
 Seven | Draw three cards.
@@ -66,7 +66,7 @@ Can only be played on your turn, and count as no points.
 Card  | Ability
 ----  | -------
 Jack  | Placed on top of an opponents point card (A-10) already on the table, you take control of it.
-Queen | Played on the table, like a point card. With a Queen in play, none of your other cards may be the target of opposing cards that target a single card. (Specifically: **Jacks and twos**). However, this offers no protection against aces which target everything. Nor do Queens offer any protection against scuttle attacks.
+Queen | Played on the table, like a point card. With a Queen in play, none of your OTHER cards may be the target of opposing cards that target a single card. (Specifically: **Jacks and twos**). However, this offers no protection against aces which target everything. Nor do Queens offer any protection against scuttle attacks.  Nor do they protect themselves.
 King  | Played on the table reduces the total amount needed to win. 
 
 King Count  | Points to win
@@ -98,22 +98,3 @@ FAQ
 ### May I use a three to rummage for the three I just played?
 
 > I don't think so. Since cards in the scrap pile do not affect the game, I believe a card sits in a kind of suspension until its effect has been resolved. This also gives clarity to the protection of one-offs by Queens.
-
-### Suppose the only point card on the table is mine, and my one-off seven comes up as a Jack. What happens
-
-> To me, the only logical answer is that the card switches sides, with the Jack on top of it!
-
-### This game has similarities with Magic: The Gathering!
-
-> It's been remarked on. It does however predate it considerably - I learnt the rules in 1975. A reverse genealogy would be fascinating - I would love to know if Richard Garfield has heard of the game.
-
-### An easier way to remember Cuttle effects as a MTG player
-
-piato on Reddit [gave these tips](http://www.reddit.com/r/magicTCG/comments/2ye2yc/theres_a_standard_playing_card_game_from_1975/cp8xzpe):
-
-> "Point cards" are creatures. You win if you have 21 power on the table. J/Q/K are enchantments.
-
-> A: Wrath 2: Dispel / Disenchant (split card) 3: Regrowth 4: Mind Rot 5: Divination 6: Back to Nature 7: draw a card and play it immediately (Chandra +0?) 8: Glasses of Urza 9: Boomerang 10: - J: Mind Control Q: Defense Grid + Privileged Position K: Your creatures have power * 1.5
-
-> (Note that the Instant/Sorcery status of those cards isn't quite right - everything in the game is at "sorcery speed" (i.e. on your turn, and the only thing you do on your turn), except for the counterspell mode of 2s. Which makes the counters into Flusterstorms or something, since they can't hit "creatures", scuttles (um, evoking shriekmaw I guess?) or "enchantments".)
-
