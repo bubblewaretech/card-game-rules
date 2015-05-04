@@ -85,7 +85,7 @@ FAQ
 
 ### Can I play a two to "counter" a point card? How about a scuttle?
 
-> The single most common question I am asked :-). Players who are used to Magic: The Gathering are often surprised to find out that this is not allowed - a two is not a universal counterspell. It may only "counter" a one-off, nothing else.
+> It may only "counter" a one-off, nothing else. Not points nor scuttles.
 
 ###  Do Queens protect against "countering" twos?
 
